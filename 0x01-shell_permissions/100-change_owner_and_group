@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff hello dir0
+chown -R vincent:staff hello
