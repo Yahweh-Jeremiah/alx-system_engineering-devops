@@ -1,1 +1,2 @@
-Printsabsolute path name
+Prints absolute path name
+Change the working dir to home dir
